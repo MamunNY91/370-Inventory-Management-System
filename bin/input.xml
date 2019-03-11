@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Inventory>
+<Item id = "100">
+   <name>Apple</name>
+   <price>3.55</price>
+   <quantity>5</quantity>
+   <threshold>10</threshold>
+</Item>
+<Item id = "101">
+    <name>Orange</name>
+    <price>2.88</price>
+    <quantity>10</quantity>
+   <threshold>10</threshold>
+</Item>
+<Item id = "102">
+    <name>Banana</name>
+    <price>1.88</price>
+    <quantity>10</quantity>
+   <threshold>12</threshold>
+</Item>
+<Item id = "103">
+    <name>Avocado</name>
+    <price>1.50</price>
+    <quantity>5</quantity>
+   <threshold>10</threshold>
+</Item>
+
+</Inventory> 
